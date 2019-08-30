@@ -66,5 +66,3 @@ class Init extends CI_Controller {
 	}
 
 }
-
-?>	

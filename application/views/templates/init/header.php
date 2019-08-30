@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="theme-color" content="#F44336">
-    <title>Aplikasi kasir</title>
+    <title>ACS APP</title>
     <!-- Favicon-->
     <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
 
@@ -16,7 +16,7 @@
 
     <!-- Bootstrap Core Css -->
     <link href="<?php echo base_url("assets/") ?>plugins/bootstrap/css/bootstrap.css" rel="stylesheet">
-    
+
     <!-- select 2 -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/plugins/select2/dist/css/select2.min.css') ?>">
 
