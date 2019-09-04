@@ -9,14 +9,16 @@
   <link rel="shortcut icon" href="<?= base_url() ?>">
 
   <!-- Bootstrap Core CSS -->
+  <!-- Bootstrap Core CSS -->
   <link href="<?php echo base_url() . 'assets/css/bootstrap.min.css' ?>" rel="stylesheet">
   <link href="<?php echo base_url() . 'assets/css/style.css' ?>" rel="stylesheet">
+  <link href="<?php echo base_url() . 'assets/css/style_menu.css' ?>" rel="stylesheet">
   <link href="<?php echo base_url() . 'assets/css/font-awesome.css' ?>" rel="stylesheet">
   <link href="<?php echo base_url() . 'assets/css/sweetalert2.css' ?>" rel="stylesheet">
 
-  <script src="<?= base_url() . 'assets/js/jquery.js' ?>"></script>
-  <script src="<?= base_url() . 'assets/js/sweetalert2.js' ?>"></script>
+  <!-- <script src="<?= base_url() . 'assets/js/jquery.js' ?>"></script> -->
+
 </head>
 
 <body>
-  <div class="container-fluid" style="margin-top:-50px">
+  <div class="container">

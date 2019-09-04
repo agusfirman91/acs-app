@@ -11,9 +11,9 @@ class MY_loader extends CI_Loader
 			$temp .= $this->view("_partials/footer", $data, $return);
 			return $temp;
 		} else {
-			$temp .= $this->view("_partials/header", $data, $return);
+			$this->view("_partials/header", $data, $return);
 			$this->view($temp, $data);
-			$temp .= $this->view("_partials/footer", $data, $return);
+			$this->view("_partials/footer", $data, $return);
 		}
 	}
 

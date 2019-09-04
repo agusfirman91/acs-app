@@ -11,7 +11,7 @@
 		<div class="col-lg-3 col-md-6 col-sm-6 portfolio-item">
 			<div class="menu-item blue" style="height:150px;">
 				<a href="<?= base_url() ?>admin/p/orders">
-					<i class="fa fa-cutlery" aria-hidden="true"></i>
+					<i class="fa fa-cutlery  fa-fw fa-2x" aria-hidden="true"></i>
 					<p style="text-align:left;font-size:24px;padding-left:5px;">Orders</p>
 				</a>
 			</div>
@@ -58,7 +58,4 @@
 		</div>
 
 	</div>
-
-
-</div>
 </div>
